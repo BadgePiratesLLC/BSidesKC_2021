@@ -1,0 +1,7 @@
+﻿Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,I/O,SW_SPDT_PCM12,1,SW_DPDT_x2,https://www.digikey.com/en/products/detail/c-k/PCM12SMTR/1640112
+2,J2,PinHeader_1x02_P2.54mm_Vertical,1,Conn_01x02_Male,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300411021/4846826
+9,U1,TO-252-3_TabPin2,1,IFX27001TFV33,https://www.mouser.com/ProductDetail/Infineon-Technologies/IFX27001TF-V33?qs=wK%252BoHS4yu56F1167qfdVYQ%3D%3D
+10,R1,R_1206_3216Metric,1,R,<Need Measurement>
+11,J1,USB_Micro-B_Wuerth_629105150521,1,USB_B_Micro,https://www.mouser.com/ProductDetail/Wurth-Elektronik/629105150521?qs=a9WhcLg8qCzXiH7kZP8GRQ%3D%3D
+12,C1,C_0805_2012Metric,1,CP1,<Need Measurement>

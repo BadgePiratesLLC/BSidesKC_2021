@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Bsides-KC Svg2Shenzen")(type KiCad)(uri "$(KIPRJMOD)/Bsides-KC Svg2Shenzen.pretty")(options "")(descr ""))
+)
